@@ -1,0 +1,10 @@
+h1 {color: #2F4F4F; text-align: center;
+    font-family:  fantasy; margin-bottom: 70px;}
+h2 {color: #2F4F4F; text-align: center;
+    font-family:  franklin gothic medium; margin-bottom: 100px;
+}
+ul { font-size:150%; text-indent: 20px;}
+body { background: url('back.png'); 
+background-attachment: fixed; line-heigth:200px;
+}
+a {margin: 0 20px;}
